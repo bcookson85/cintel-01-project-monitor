@@ -1,4 +1,4 @@
-# cintel-01-getting-started
+# cintel-01-project-monitor
 
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](pyproject.toml)
 [![CI](https://github.com/denisecase/cintel-01-getting-started/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/denisecase/cintel-01-getting-started/actions/workflows/ci-python-zensical.yml)
@@ -9,22 +9,21 @@
 [![Zensical docs](https://img.shields.io/badge/Zensical-docs-purple)](https://zensical.org/)
 [![MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
-> Establish and verify a professional Python project for continuous intelligence.
+> Establish and verify a professional Python environment for continuous intelligence, with a focus on project performance monitoring.
 
 ## Project Overview
 
-Author: Denise Case
+Author: Brian Cookson
 
 Date: 2026 October
 
-First project in the Continuous Intelligence course.
+This project is part of the Continuous Intelligence course at Northwest Missouri State University.
 
-The goal is to establish a working Python environment,
-explore a professional project structure,
-run a Python pipeline, and verify the project works.
+The initial goal is to establish a working Python development environment, understand the professional project structure, execute a Python pipeline, and verify that the project functions correctly.
 
-The project is configured in
-[pyproject.toml](pyproject.toml).
+The project will explore the potential for continuous intelligence to support project performance monitoring, including tracking response times, identifying unusual trends, and improving business decision-making.
+
+The project is configured using pyproject.toml.
 
 ## Data
 
